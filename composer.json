@@ -18,7 +18,7 @@
         "guzzlehttp/guzzle": "*",
         "lstrojny/fxmlrpc": "^0.14",
         "psr/log": "~1.0",
-        "php-http/guzzle6-adapter": "*",
+        "php-http/guzzle6-adapter": "1.*",
         "laminas/laminas-diactoros": "^2.3",
         "php-http/message": "*",
         "php-http/curl-client": "*"
