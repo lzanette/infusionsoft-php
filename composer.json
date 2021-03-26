@@ -1,5 +1,5 @@
 {
-    "name": "laravel7/infusionsoft-php-sdk",
+    "name": "lzanette/infusionsoft-php",
     "description": "PHP SDK for the Infusionsoft",
     "keywords": [
         "infusionsoft",
