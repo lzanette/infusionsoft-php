@@ -16,17 +16,17 @@
     "require": {
         "php": "7.*",
         "guzzlehttp/guzzle": "*",
-        "lstrojny/fxmlrpc": "^0.14",
-        "psr/log": "~1.0",
-        "php-http/guzzle6-adapter": "1.*",
-        "laminas/laminas-diactoros": "^2.3",
+        "lstrojny/fxmlrpc": "*",
+        "psr/log": "*",
+        "php-http/guzzle7-adapter": "*",
+        "laminas/laminas-diactoros": "*",
         "php-http/message": "*",
         "php-http/curl-client": "*"
     },
     "require-dev": {
         "mockery/mockery": "*",
         "phpunit/phpunit": "*",
-        "doctrine/instantiator": "^1.0",
+        "doctrine/instantiator": "*",
         "squizlabs/php_codesniffer": "*"
     },
     "autoload": {
